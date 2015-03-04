@@ -21,7 +21,7 @@ March 4, 2015
 
 ## Dangling Modifiers:
 
-1. the car accidentally swerved into an oncoming car.
+1. The car accidentally swerved into an oncoming car while opening the window to let out a huge bumblebee. 
 2. Women's access to the pulpit has often been denied, after completing seminary training.
 3. The recruiter enthusiastically shook Joe's hand as he decided to join the navy. 
 4. A skeleton caught my attention upon entering the doctor's office. 
