@@ -3,12 +3,12 @@ March 4, 2015
 
 ## Modifiers: Limiting Words:
 
-1. Lasers only destroy the target, leaving the surrounding healthy tissue intact.
-2. The turtle only makes progress when it sticks its neck out.
+1. Lasers destroy only the target, leaving the surrounding healthy tissue intact.
+2. The turtle makes progress only when it sticks its neck out.
 
 ## Modifiers: Phrases and Clauses:
 
-3. I n a limousine sent by Adidas, the soccer player returned to the clinic where he had undergone emergency surgery in 2004.
+3. In a limousine sent by Adidas, the soccer player returned to the clinic where he had undergone emergency surgery in 2004.
 4. There are many pictures of comedians who have performed on the walls at Gavin's.
 5. The robber was described as a six-foot-tall man with a mustache, weighing 150 pounds.
 6. The exchange students we met for coffee occasionally questioned us about our latest slang.
