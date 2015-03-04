@@ -1,3 +1,4 @@
+Kaleigh Talaganis
 ## Modifiers: Limiting Words:
 
 1. Lasers only destroy the target, leaving the surrounding healthy tissue intact.
