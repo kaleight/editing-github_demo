@@ -21,9 +21,9 @@ March 4, 2015
 
 ## Dangling Modifiers:
 
-1. Opening the window to let out a huge bumblebee, the car accidentally swerved into an oncoming car.
+1. the car accidentally swerved into an oncoming car.
 2. Women's access to the pulpit has often been denied, after completing seminary training.
 3. The recruiter enthusiastically shook Joe's hand as he decided to join the navy. 
 4. A skeleton caught my attention upon entering the doctor's office. 
-5. To please the children, some fireworks were set off a day early.
-6. Though only sixteen, UCLA accepted Martha's application.
+5. Some fireworks were set off a day early, to please the children.
+6. UCLA accepted Martha's application, although she is only sixteen.
